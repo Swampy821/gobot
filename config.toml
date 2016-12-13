@@ -1,0 +1,4 @@
+# Server / bot config
+Server = "irc.freenode.net:6667"
+Name = "catfactbot"
+Channels = ["##gobot1"]
