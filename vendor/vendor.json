@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "hqDDDpue/5363luidNMBS8z8eJU=",
+			"path": "github.com/BurntSushi/toml",
+			"revision": "99064174e013895bbd9b025c31100bd1d9b590ca",
+			"revisionTime": "2016-07-17T15:07:09Z"
+		},
+		{
+			"checksumSHA1": "9BfDgevpBgdiP4B6DT9SvcuVyLs=",
+			"path": "github.com/Jeffail/gabs",
+			"revision": "2a3aa15961d5fee6047b8151b67ac2f08ba2c48c",
+			"revisionTime": "2016-11-16T21:39:02Z"
+		},
+		{
+			"checksumSHA1": "R0hwmWSA3CEsjUdNqP9oBK798tk=",
+			"path": "github.com/thoj/go-ircevent",
+			"revision": "1b0acb5f2f1b615cfbd4b9f91abb14cb39a18769",
+			"revisionTime": "2016-12-08T08:29:58Z"
+		}
+	],
+	"rootPath": "github.com/Swampy821/gobot"
+}
